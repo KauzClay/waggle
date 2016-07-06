@@ -71,6 +71,7 @@ Switch on the LightSense below friction mount has to switched inside.
 - LightSense is id connected to C1+, see above
 - LightSense RJ45 to AirSense RJ45 using ethernet cable (which one exactly?)
 - AirSense RJ45 to ChemSeense RJ45 using ethernet cable (which one exactly?)
+- Switches on the ChemSense need to both point towards the center of the board (ON and AUX positions)
 
 # Serial connection
 - C1+ UART CON5
