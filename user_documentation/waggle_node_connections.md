@@ -39,8 +39,8 @@ Switch on the LightSense below friction mount has to switched inside.
 
 - C1+ USB to Lightsense micro USB using aluminium USB cable (which one exactly?)
 - C1+ USB to WagMan micro USB using normal USB cable (right angle USB cable)
-- C1+ USB to microUSB/RJ45-adapter ("CAT6 USB BKT1") using normal USB cable (which one exactly?)
-- C1+ USB to ?
+- C1+ USB to microUSB/RJ45-adapter ("CAT6 USB BKT1") using normal ANKER USB cable (which one exactly?)
+- C1+ USB to microUSB/RJ45-adapter ("CAT6 USB BKT1") using normal ANKER USB cable (which one exactly?)
 
 ## plain wires
 - Heartbeat: C1+ GPIO pin 3 to WagMan port 1, slot 3 (slot 1 is right most)
