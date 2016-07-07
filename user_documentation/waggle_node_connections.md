@@ -48,6 +48,7 @@ Switch on the LightSense below friction mount has to switched inside.
 
 ## power
 - power: C1+ power barrel socket to WagMan port 1 ( 5V (slot 2) and ground (slot 4) ) using barrel connector wire (2.5mm outer diameter)
+- attach RTC battery to RTC port (BT1)
 
 # XU4 connections
 
@@ -66,6 +67,7 @@ Switch on the LightSense below friction mount has to switched inside.
 
 ## power
 - power: XU4 power barrel socket to WagMan port 2 ( 5V (slot 2) and ground (slot 4) ) using barrel connector wire (5.5mm outer diameter)
+- attach RTC battery to BACKUP port (BT1)
 
 # CoreSense
 - LightSense is id connected to C1+, see above
